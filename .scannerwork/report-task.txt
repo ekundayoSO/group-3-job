@@ -1,0 +1,6 @@
+projectKey=group-3
+serverUrl=http://localhost:8889
+serverVersion=10.6.0.92116
+dashboardUrl=http://localhost:8889/dashboard?id=group-3
+ceTaskId=a882445c-ce29-4dd9-9ecd-f885c8d6f171
+ceTaskUrl=http://localhost:8889/api/ce/task?id=a882445c-ce29-4dd9-9ecd-f885c8d6f171
