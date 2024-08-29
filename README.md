@@ -1,15 +1,15 @@
-# Fetching images from unsplash api and display in browser
+# Fetching images from unsplash api and display them in browser
 
 # Steps:
-- clone the repo && cd unsplash-api directory
+- clone the repo && cd group-3-job directory
 - run npm install
 - run npm run dev
 
-- Make your contribute through your branch.
+- Push to your own branch
 
 
 Happy coding!!
 
 
 
-https://ekundayo-unsplash.netlify.app/
+https://github.com/ekundayoSO/group-3-job
